@@ -53,7 +53,10 @@ Programs Used
 •	GitHub
 •	Chat GPT
 •	Scribe
-Help
+Help[Deployment 1.1.pdf](https://github.com/DomIvey/Deployment-1.1/files/12365384/Deployment.1.1.pdf)
+
+
+
 I used Chat GPT to help find out why AWS EB had a degraded health status
 
 Project Title
