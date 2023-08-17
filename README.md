@@ -15,11 +15,13 @@ The main issue that I ran into was with my zipped folders, which is why I wasn�
  
 
 Installing
+
 •	Downloaded Instructor’s files from GitHub and reuploaded to my GitHub repository. 
 •	Created a new zip file
 
 
 Programs Used
+
 •	Jenkins
 •	AWS Elastic Beanstalk
 •	GitHub
