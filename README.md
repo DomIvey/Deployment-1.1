@@ -29,3 +29,4 @@ I used Chat GPT to help find out why AWS EB had a degraded health status
  
 Author
 Dominique Ivey
+[Deployment 1.1.docx](https://github.com/DomIvey/Deployment-1.1/files/12365375/Deployment.1.1.docx)
