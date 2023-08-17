@@ -1,7 +1,11 @@
 Project Title
 Kura Labs Deployment 1.1
+
+
 Description
 Demonstrate your ability to run a Jenkins build and manually deploy to Elastic Beanstalk.
+
+
 Issues and Outcomes
 This deployment ran much smoother than yesterday. I was able to deploy Jenkins successfully.
  
@@ -13,22 +17,23 @@ The main issue that I ran into was with my zipped folders, which is why I wasn�
 Installing
 •	Downloaded Instructor’s files from GitHub and reuploaded to my GitHub repository. 
 •	Created a new zip file
+
+
 Programs Used
 •	Jenkins
 •	AWS Elastic Beanstalk
 •	GitHub
 •	Chat GPT
 •	Scribe
+
+
 Help
 I used Chat GPT to help find out why AWS EB had a degraded health status
 
- 
-
- 
-
- 
+  
 Author
 Dominique Ivey
+
 [Deployment 1.1.docx](https://github.com/DomIvey/Deployment-1.1/files/12365375/Deployment.1.1.docx)
 
 
