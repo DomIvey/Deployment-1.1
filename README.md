@@ -1,19 +1,31 @@
-<p align="center">
-<img src="https://github.com/kura-labs-org/kuralabs_deployment_1/blob/main/Kuralogo.png">
-</p>
-<h1 align="center">C4_deployment-1.1<h1> 
-
+Project Title
+Kura Labs Deployment 1.1
+Description
 Demonstrate your ability to run a Jenkins build and manually deploy to Elastic Beanstalk.
+Issues and Outcomes
+This deployment ran much smoother than yesterday. I was able to deploy Jenkins successfully.
+ 
 
-- Create a separate GitHub repository for this application 
+The main issue that I ran into was with my zipped folders, which is why I wasn’t able to select the “ElasticEC2” option when setting up my Python Shortener on EB per the instructions. 
+ What I did to fix this was create a new compressed zip file that included my downloaded files from the GitHub repository. Once I fixed this, I was able to proceed through the instructions and run EB successfully.
+ 
 
-- Download the files from this repository and upload them to your newly created repository 
+Installing
+•	Downloaded Instructor’s files from GitHub and reuploaded to my GitHub repository. 
+•	Created a new zip file
+Programs Used
+•	Jenkins
+•	AWS Elastic Beanstalk
+•	GitHub
+•	Chat GPT
+•	Scribe
+Help
+I used Chat GPT to help find out why AWS EB had a degraded health status
 
-- Be sure to follow the deployment instructions from this Repository  
+ 
 
-- Document your issue and what you did to fix it in a .md file in your repository.
+ 
 
-- Lastly, save your documentation and diagram into your repository. Submit your repository link to the LMS
-
-## Deployment instructions Link:
--  Link to instructions: https://github.com/kura-labs-org/C4_deployment-1.1/blob/main/Deployment-instructions.md
+ 
+Author
+Dominique Ivey
